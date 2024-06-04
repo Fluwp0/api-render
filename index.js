@@ -7,16 +7,16 @@ const puerto = 3000;
 
 
 
-const { getEquipos } = require("./controllers/equipos.controllers");
-const { getEquiposById } = require("./controllers/equipos.controllers");
+const { getcarModels } = require("./controllers/car.controllers");
+const { getcarModelsById } = require("./controllers/car.controllers");
 
 app.use(cors());
 
-app.get("/", getEquipos)
+app.get("/", getcarModels)
 
 app.get("/", )
 
-app.get("/:id",getEquiposById)
+app.get("/:id",getcarModelsById)
 
 
 
