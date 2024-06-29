@@ -33,7 +33,7 @@ const carModels = [
         kilometraje: 12000,
         color: "Azul",
         transmisión: "Automática",
-        imagen: "https://www.carpixel.net/w/d0935aae6deae9fb648a9097586d1758/porsche-panamera-turbo-s-executive-wallpaper-hd-100826.jpg"
+        imagen: "https://www.pcarmarket.com/static/media/uploads/galleries/photos/uploads/galleries/panamera-test/.thumbnails/Panamera_Blue-14.jpg/Panamera_Blue-14-tiny-2048x0-0.5x0.jpg"
     },
     {
         id: 5,
