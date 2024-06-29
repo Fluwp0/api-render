@@ -32,7 +32,7 @@ const getcarModelsById = (req = request, res = response) => {
         return res.json({
             ok:true,
             statusCode:404,
-            msg:"No gay autos con ese id"
+            msg:"No hay autos con ese id"
         });
     }
 
