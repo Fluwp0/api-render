@@ -292,7 +292,7 @@ const carModels = [
         kilometraje: 21000,
         color: "Verde",
         transmisión: "Manual",
-        imagen: "https://img.autobild.es/uploads/2021/07/porsche-cayman-gt4-2022.jpg",
+        imagen: "https://motorshow.com.br/wp-content/uploads/sites/2/2021/08/porsche-718-cayman-gt4-56.jpg?x71212",
         descripcion: "El Cayman GT4 es un coupé deportivo de alto rendimiento diseñado para la pista. Con un motor potente y un chasis optimizado, ofrece una experiencia de conducción precisa y emocionante. Su color verde le da un aspecto distintivo y moderno.",
         precio: "$130.000.000"
     },
@@ -303,7 +303,7 @@ const carModels = [
         kilometraje: 7000,
         color: "Negro",
         transmisión: "Automática",
-        imagen: "https://www.autobild.es/sites/autobild.es/public/styles/main_element/public/dc/fotos/Porsche_911_Carrera_4S_Cabriolet_002.jpg?itok=7BMyB4mA",
+        imagen: "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXABuN9dMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmWBisGK7Zlp0KtYYF%25mVSW8uAIkIuGbmhG0iO5MBYNHcTCkcbNKf2GLG7JSPQrIiqwRuT0k%25Gx7e2HLec1UzQKkOYn4Jq6GSeJ3SvnstLvT8Cu2gy9dfR6DrFN",
         descripcion: "El 911 Carrera 4S combina el rendimiento clásico del 911 con tracción total para una mejor estabilidad. Con un motor potente y un diseño icónico, ofrece una experiencia de conducción excepcional. Su color negro añade un toque de elegancia y sofisticación.",
         precio: "$140.000.000"
     },
@@ -314,7 +314,7 @@ const carModels = [
         kilometraje: 13000,
         color: "Rojo",
         transmisión: "Manual",
-        imagen: "https://i.auto-bild.de/mdb/extra_large/14/68-cayenne-gts-1605889747.jpg",
+        imagen: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1nqbwr.img?w=1920&h=1080&m=4&q=51",
         descripcion: "El Cayenne GTS combina el lujo de un SUV con el rendimiento de un coche deportivo. Con un motor potente y un diseño robusto, es ideal para cualquier terreno. Su color rojo añade un toque de pasión y deportividad.",
         precio: "$115.000.000"
     },
@@ -325,7 +325,7 @@ const carModels = [
         kilometraje: 1000,
         color: "Blanco",
         transmisión: "Automática",
-        imagen: "https://cdn.motor1.com/images/mgl/k9V07w/s1/2022-porsche-taycan-gts-exterior-front-quarter.jpg",
+        imagen: "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXABuN9dMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmWBisGK7Zlp0KtYYF%25mVSW8uAVbsqYSt4T0iO5M8INHcTCkcQoKf2GLfmJSPQrIP7jMNYw3ZiYko5xjrK0LFC1a1fNIuGbm410iO5M%252hHcTCkWvAKf2GLHTJSPQrIgdHMNYw3uQyko6c0z381cW8utySZg0yIxSJFXP5qzNjqz",
         descripcion: "El Taycan GTS ofrece un rendimiento eléctrico impresionante con un diseño elegante y moderno. Con una aceleración rápida y una autonomía considerable, redefine la experiencia de conducción eléctrica. Su color blanco le da un aspecto limpio y sofisticado.",
         precio: "$160.000.000"
     }
