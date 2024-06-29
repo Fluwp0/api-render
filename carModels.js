@@ -7,7 +7,8 @@ const carModels = [
         color: "Amarillo",
         transmisión: "Automática",
         imagen: "https://www.hdcarwallpapers.com/walls/porsche_911_carrera_4_gts_2021_5k_2-HD.jpg",
-        descripcion: "El 911 Carrera es un ícono del rendimiento deportivo con un motor potente y diseño elegante. Ofrece una conducción precisa y dinámica, ideal para los amantes de la velocidad. Su color amarillo vibrante lo hace destacar en cualquier carretera."
+        descripcion: "El 911 Carrera es un ícono del rendimiento deportivo con un motor potente y diseño elegante. Ofrece una conducción precisa y dinámica, ideal para los amantes de la velocidad. Su color amarillo vibrante lo hace destacar en cualquier carretera.",
+        precio: 120000000
     },
     {
         id: 2,
